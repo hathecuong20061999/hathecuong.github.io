@@ -83,6 +83,7 @@ table{
 table tr{
 	border:1px solid #eee;
 }
+
 table th{
 	vertical-align:top;
 	color:#333;
@@ -500,6 +501,11 @@ input[type="button"]{
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+.album {
+	align-content: center;
+	width: 1000px;
+	height: 600px;
 }
 .row {
 	height:auto;
